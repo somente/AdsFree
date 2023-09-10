@@ -1,3 +1,13 @@
+# Youtube default blocklist
+# Blocking Youtube ad
+#
+# Project home page:
+# https://github.com/somente/AdsFree
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/somente/AdsFree/main/Youtube.txt
+#
+
 www.googletagservices.com
 www-googletagmanager.l.google.com
 www-google-analytics.l.google.com
